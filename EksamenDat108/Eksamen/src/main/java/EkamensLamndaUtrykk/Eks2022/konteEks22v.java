@@ -1,4 +1,4 @@
-package EkamensLamndaUtrykk;
+package EkamensLamndaUtrykk.Eks2022;
 
 import java.time.LocalDate;
 import java.util.Comparator;

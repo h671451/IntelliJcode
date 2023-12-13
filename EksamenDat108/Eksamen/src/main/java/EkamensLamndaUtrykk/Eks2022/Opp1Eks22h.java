@@ -1,4 +1,7 @@
-package EkamensLamndaUtrykk;
+package EkamensLamndaUtrykk.Eks2022;
+
+import EkamensLamndaUtrykk.Bil;
+import EkamensLamndaUtrykk.Kundedata;
 
 import java.util.Comparator;
 import java.util.List;

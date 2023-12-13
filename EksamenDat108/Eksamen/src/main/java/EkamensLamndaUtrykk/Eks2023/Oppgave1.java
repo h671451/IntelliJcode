@@ -1,4 +1,6 @@
-package EkamensLamndaUtrykk;
+package EkamensLamndaUtrykk.Eks2023;
+
+import EkamensLamndaUtrykk.Eksamen;
 
 import java.time.LocalDate;
 import java.time.Month;
